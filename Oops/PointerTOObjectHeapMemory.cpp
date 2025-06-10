@@ -15,7 +15,7 @@ public:
 
 int main() {
     rectangle *ptr = new rectangle;
-    ptr->radius = 22.5;
+    ptr->radius = -5;
     cout<<"The Area of Circle = "<<ptr->CircleArea()<<endl;
     cout<<"The Perimeter of Circle = "<<ptr->CirclePerimeter()<<endl;
 }
