@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69866968-f307-41a1-b7ae-55a0c9627348" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayUsingAutoKeyWord" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayUsingForEach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumOfNum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumOfNumbers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppfiles/ArrayUsingAutoKeyWord.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppfiles/ArrayUsingForEach.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppfiles/ArrayUsingForLoop.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppfiles/BinarySearch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppfiles/LinearSearch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppfiles/MaxNum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppfiles/SumOfNum.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="1.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2yUN8mnRs5aFwO2QGdzEePQBVVs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.2+1_Pattern.cpp.executor": "Run",
+    "C/C++ File.3_Pattern.cpp.executor": "Run",
+    "C/C++ File.4_Pattern.cpp.executor": "Run",
+    "C/C++ File.Decendingpattern.cpp.executor": "Run",
+    "C/C++ File.Pattern.cpp.executor": "Run",
+    "C/C++ File.ToGetherPattern.cpp.executor": "Run",
+    "CMake Application.Arrays.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/faizan/CCppSelfLearn/CppSelfLearn/Arrays/main.cpp",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.4_Pattern.cpp">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2+1_Pattern.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Arrays" TARGET_NAME="2+1_Pattern.cpp" CONFIG_NAME="2+1_Pattern.cpp">
+      <option name="sourceFile" value="2+1_Pattern.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3_Pattern.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Arrays" TARGET_NAME="3_Pattern.cpp" CONFIG_NAME="3_Pattern.cpp">
+      <option name="sourceFile" value="3_Pattern.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4_Pattern.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Arrays" TARGET_NAME="4_Pattern.cpp" CONFIG_NAME="4_Pattern.cpp">
+      <option name="sourceFile" value="4_Pattern.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Arrays" TARGET_NAME="Pattern.cpp" CONFIG_NAME="Pattern.cpp">
+      <option name="sourceFile" value="Pattern.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToGetherPattern.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Arrays" TARGET_NAME="ToGetherPattern.cpp" CONFIG_NAME="ToGetherPattern.cpp">
+      <option name="sourceFile" value="ToGetherPattern.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.2+1_Pattern.cpp" />
+      <item itemvalue="C/C++ File.3_Pattern.cpp" />
+      <item itemvalue="C/C++ File.4_Pattern.cpp" />
+      <item itemvalue="C/C++ File.Pattern.cpp" />
+      <item itemvalue="C/C++ File.ToGetherPattern.cpp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.4_Pattern.cpp" />
+        <item itemvalue="C/C++ File.3_Pattern.cpp" />
+        <item itemvalue="C/C++ File.2+1_Pattern.cpp" />
+        <item itemvalue="C/C++ File.ToGetherPattern.cpp" />
+        <item itemvalue="C/C++ File.Pattern.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69866968-f307-41a1-b7ae-55a0c9627348" name="Changes" comment="" />
+      <created>1749885034933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749885034933</updated>
+      <workItem from="1749885037892" duration="3252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
